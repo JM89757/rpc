@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itheima-rpc-consumer" />
+        <module name="itheima-rpc-framework" />
+        <module name="itheima-rpc-interface" />
+        <module name="itheima-rpc-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itheima-rpc-consumer" target="1.5" />
+      <module name="itheima-rpc-framework" target="1.5" />
+      <module name="itheima-rpc-interface" target="1.5" />
+      <module name="itheima-rpc-provider" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

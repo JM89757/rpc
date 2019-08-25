@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-rpc-consumer/itheima-rpc-consumer.iml" filepath="$PROJECT_DIR$/itheima-rpc-consumer/itheima-rpc-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-rpc-framework/itheima-rpc-framework.iml" filepath="$PROJECT_DIR$/itheima-rpc-framework/itheima-rpc-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-rpc-interface/itheima-rpc-interface.iml" filepath="$PROJECT_DIR$/itheima-rpc-interface/itheima-rpc-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-rpc-provider/itheima-rpc-provider.iml" filepath="$PROJECT_DIR$/itheima-rpc-provider/itheima-rpc-provider.iml" />
+    </modules>
+  </component>
+</project>
